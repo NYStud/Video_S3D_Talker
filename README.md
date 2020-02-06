@@ -19,9 +19,10 @@ Thanks ***Luowei Zhou*** for sharing his raw videos of [YouCook2 dataset](http:/
 
 ## Things to do:
 - [x] Initialize the ReadMe.                                            - Feb. 4th
-- [ ] Upload training script on YC2 Dataset.                            - Feb. 5th
+- [x] Upload training script on YC2 Dataset.                            - Feb. 5th
+- [ ] Release pre-trained captioning models.                            - Feb. 7th
 - [ ] Release extracted video segment features of YC2 using S3D models. - Feb. 7th
-- [ ] Evaluation script and performances.                               - Feb. 10th
+- [x] Evaluation script and performances.                               - Feb. 10th
 - [ ] Baseline models on MSR-VTT and performances.                      - Feb. 24th
 
 ## Performances Comparison on YouCook2 Captioning
