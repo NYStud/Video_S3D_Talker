@@ -24,16 +24,14 @@ Sun, Chen, et al. "Contrastive bidirectional transformer for temporal representa
 ## Performances Comparison on YouCook2 Captioning
 
 | Method  | Features | BLEU-4 | METEOR | ROUGE-L | CIDEr |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+|  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |
 | Zhou et al. | ResNet | 4.38 | 11.55 | 27.44 | 0.38 |
 | S3D | Kinetic Pre-trained S3D | 3.24 | 9.52 | 26.09 | 0.31 |
 | VideoBERT | - | 4.33 | 11.94 | 28.80 | 0.55 |
 | CBT | Nce-pretrained S3D | 5.12 | 12.97 | 30.44 | 0.64 |
 | Ours | HowTo100M pre-tr. S3D | 3.47 | 10.31 | 33.54 | 0.35 |
 
-## Mention these work if you find it helpful.
-
-  Please cite or mention these works if you find this project helpful: 
+##   Please cite or mention these works if you find this project helpful: 
   
   ***Our GitHub Project:***
   ```
