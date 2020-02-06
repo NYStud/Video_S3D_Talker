@@ -29,7 +29,7 @@ Sun, Chen, et al. "Contrastive bidirectional transformer for temporal representa
 | S3D | Kinetic Pre-trained S3D | 3.24 | 9.52 | 26.09 | 0.31 |
 | VideoBERT | - | 4.33 | 11.94 | 28.80 | 0.55 |
 | CBT | Nce-pretrained S3D | 5.12 | 12.97 | 30.44 | 0.64 |
-| S3D-Talker | YC2 pre-tr. by NCE | 1.59 | 6.17 | 27.78 | 13.62 |
+| S3D-Talker | YC2 pre-tr. by NCE | 1.59 | 6.17 | 27.78 | 0.14 |
 | S3D-Talker | HowTo100M pre-tr. S3D | 3.47 | 10.31 | 33.54 | 0.35 |
 
 ##   Please cite or mention these works if you find this project helpful: 
