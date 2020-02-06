@@ -1,7 +1,5 @@
 # Video_S3D_Talker
 
-## Building and Updating...
-
 ## Features of the project will be:
 
 ```
