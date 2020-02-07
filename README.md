@@ -25,12 +25,12 @@ Sun, Chen, et al. "Contrastive bidirectional transformer for temporal representa
 
 | Method  | Features | BLEU-4 | METEOR | ROUGE-L | CIDEr |
 |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |
-| Zhou et al. | ResNet | 4.38 | 11.55 | 27.44 | 0.38 |
-| S3D | Kinetic Pre-trained S3D | 3.24 | 9.52 | 26.09 | 0.31 |
+| Zhou et al. | ImageNet pre-tr. ResNet | 4.38 | 11.55 | 27.44 | 0.38 |
+| S3D | Kinetic Act. Clfc. pre-tr. | 3.24 | 9.52 | 26.09 | 0.31 |
 | VideoBERT | - | 4.33 | 11.94 | 28.80 | 0.55 |
-| CBT | Nce-pretrained S3D | 5.12 | 12.97 | 30.44 | 0.64 |
-| S3D-Talker | YC2 pre-tr. by NCE | 1.59 | 6.17 | 27.78 | 0.14 |
-| S3D-Talker | HowTo100M pre-tr. S3D | 3.47 | 10.31 | 33.54 | 0.35 |
+| CBT-S3D |  HowTo100M NCE pre-tr. | 5.12 | 12.97 | 30.44 | 0.64 |
+| S3D-Talker | YC2 NCE pre-tr. | 1.59 | 6.17 | 27.78 | 0.14 |
+| S3D-Talker | HowTo100M NCE pre-tr. | 3.47 | 10.31 | 33.54 | 0.35 |
 
 ##   Please cite or mention these works if you find this project helpful: 
   
