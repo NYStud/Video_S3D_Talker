@@ -14,12 +14,12 @@ Sun, Chen, et al. "Contrastive bidirectional transformer for temporal representa
 ```
 
 ## Things to do:
-- [x] Initialize the ReadMe.                                            - Feb. 4th
-- [x] Upload training script on YC2 Dataset.                            - Feb. 5th
-- [ ] Release pre-trained captioning models.                            - Feb. 7th
-- [ ] Release extracted video segment features of YC2 using S3D models. - Feb. 7th
-- [x] Evaluation script and performances.                               - Feb. 10th
-- [ ] Baseline models on MSR-VTT and performances.                      - Feb. 24th
+- [x] Initialize the ReadMe.                                            
+- [x] Upload training script on YC2 Dataset.                           
+- [ ] Release pre-trained captioning models.                            
+- [ ] Release extracted video segment features of YC2 using S3D models. 
+- [x] Evaluation script and performances.                              
+- [ ] Baseline models on MSR-VTT and performances.                      
 
 ## Performances Comparison on YouCook2 Captioning
 
